@@ -8,7 +8,7 @@ db.once('open', function() {
   // Create your schemas and models here.
 });
 
-mongoose.connect('mongodb://localhost/test');
+mongoose.connect('mongodb://localhost/movie-db');
 
 
 
